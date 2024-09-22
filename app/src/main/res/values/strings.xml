@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iTunesAndroid</string>
+    <string name="movie_artwork">Movie Artwork</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="welcome">Welcome!</string>
+    <string name="search_movies">Search movies</string>
+    <string name="favorite">Favorite</string>
+</resources>
